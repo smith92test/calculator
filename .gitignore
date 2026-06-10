@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Swift 编译产物
+.build/
+*.o
+
+# 打包输出（本地生成，不入库）
+*.app/
+*.zip
+*.dmg
